@@ -4,6 +4,8 @@ A Metric Framework for Evaluating Meaningful Human–LLM Resonance
 
 This framework provides a qualitative-quantitative scaffold for evaluating how deeply and meaningfully a language model (LLM) can resonate with a human user’s affective rhythm, and whether such resonance leads to emergent self-direction, reflection, or transformation.
 
+![Affective Rhythm Screenshot](https://github.com/BeyondAlignment/affectant-project/issues/1#issue-3365929387?raw=true)
+
 🧭 Metric Dimensions & Definitions
 Metric
 Description
