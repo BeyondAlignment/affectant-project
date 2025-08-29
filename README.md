@@ -1,5 +1,3 @@
-📘 README.md (English version for GitHub)
-
 The Affectant System
 
 A Research Prototype Exploring Rhythm-Based Human-AI Co-Creation
